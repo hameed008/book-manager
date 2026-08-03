@@ -2,6 +2,10 @@
 
 Live Link - https://bookmanager.hameedkhan.pro/
 
+##### Test Login Credential:
+- Email - test123@gmail.com
+- Pass -  Test@1234 
+
 A full-stack web application designed to help users organize their personal library, track reading habits, and manage their collection with a clean, distraction-free interface. Built with modern web technologies focusing on performance, security, and a premium user experience.
 
 ## ✨ Core Features
