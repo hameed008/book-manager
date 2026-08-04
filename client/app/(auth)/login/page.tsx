@@ -48,9 +48,7 @@ export default function LoginPage() {
   };
 
   return (
-    
     <div className="relative flex min-h-screen items-center justify-center bg-gradient-to-b from-blue-600 via-indigo-500 to-blue-400 px-4 sm:px-6 lg:px-8">
-    
       <div
         className="absolute inset-0 h-full w-full pointer-events-none bg-[linear-gradient(to_right,#ffffff1f_1px,transparent_1px),linear-gradient(to_bottom,#ffffff1f_1px,transparent_1px)] bg-[size:6rem_4rem]"
         aria-hidden="true"
@@ -120,6 +118,10 @@ export default function LoginPage() {
             Sign up
           </Link>
         </p>
+        <div className="flex flex-col items-center justify-center just">
+          <p className="text-gray-900 text-sm justify-items-start">Email - test123@gmail.com</p>
+          <p className="text-gray-900 text-sm">Pass - Test@1234</p>
+        </div>
       </div>
     </div>
   );
